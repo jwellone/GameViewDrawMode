@@ -7,7 +7,7 @@
 
 
 # GameViewDrawMode
-Will be able to switch the display of GameView to several display modes.
+Will be able to switch the display of GameView from several modes.
 
 This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
